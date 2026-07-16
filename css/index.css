@@ -57,8 +57,10 @@ nav {
                 height: 20px;
             }
 
-            p {
+   
+            a {
                 font-size: large;
+                color: #000000;
             }
         }
 
